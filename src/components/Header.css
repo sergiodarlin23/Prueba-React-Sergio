@@ -1,0 +1,29 @@
+.header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #060ef7;
+  color: white;
+}
+
+.main-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.menu-buttons {
+  display: flex;
+}
+
+.menu-buttons button {
+  margin-left: 10px;
+}
+
+.sub-menu {
+  padding: 5px;
+  background-color: #61dafb;
+  color: black;
+}
